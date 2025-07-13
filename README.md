@@ -1,3 +1,2 @@
-# hello_word
-Used for my practice
-# this is an example
+# My First Usage in GitHub
+It's my first experience in github.
